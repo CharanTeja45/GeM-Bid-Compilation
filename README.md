@@ -1,3 +1,4 @@
+
 # GeM Bid Compliance Checker (SIH26100)
 
 **Smart India Hackathon 2026** | Ministry of Petroleum & Natural Gas | Theme: Smart Automation
@@ -55,3 +56,5 @@ GST is currently NOT included in mandatory document checks, pending
 real-world GST certificate images for testing. PAN and MSME verification
 are fully functional. Re-enable GST by adding it back to
 `mandatory_documents` in `rules/rules.json` once test images are available.
+
+# GeM-Bid-Compilation
